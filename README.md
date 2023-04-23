@@ -22,7 +22,7 @@ Feel free to buy me a coffee if you find whatever is around here interesting/ins
 Otherwise if you wanna reach me you can reach me on twitter(@f00fc7c800) in case you wanna say hi or you don't understand something :)
 
 As a short description of what you might encounter here : exploit dev research, malware analysis write-ups or god know's what i find interesting/amusing/worth to waste time. 
-Currently I'm working on windows security stuff and in the same time learning about it :). Future stuff will include MacOs
+Currently I'm working on windows security stuff and in the same time learning about it :). Future stuff will include MacOs/ and or Linux
 
 Thank you for stopping by,
 
