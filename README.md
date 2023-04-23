@@ -23,7 +23,6 @@ Otherwise if you wanna reach me you can reach me on twitter(@f00fc7c800) in case
 
 As a short description of what you might encounter here : exploit dev research, malware analysis write-ups or god know's what i find interesting/amusing/worth to waste time. 
 Currently I'm working on windows security stuff and in the same time learning about it :). Future stuff will include MacOs
-Thank you for stopping by. 
 
 Thank you for stopping by,
 
