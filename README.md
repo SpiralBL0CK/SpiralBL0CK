@@ -25,6 +25,8 @@ As a short description of what you might encounter here : exploit dev research, 
 Currently I'm working on windows security stuff and in the same time learning about it :). Future stuff will include MacOs
 Thank you for stopping by. 
 
+Thank you for stopping by,
+
 Have a great day, and don't forget 
 
 
